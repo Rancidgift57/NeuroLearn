@@ -10,21 +10,6 @@
 
 ---
 
-## 📺 Demo Video
-
-<!-- ================================================================ -->
-<!-- YOUTUBE VIDEO PLACEHOLDER                                         -->
-<!-- Replace YOUR_VIDEO_ID below with your actual YouTube video ID    -->
-<!-- e.g. if your URL is https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
-<!--      then YOUR_VIDEO_ID = dQw4w9WgXcQ                            -->
-<!-- ================================================================ -->
-
-[![NeuroLearn Demo](<img width="1909" height="739" alt="image" src="https://github.com/user-attachments/assets/6571a97e-1c08-4277-9bac-c70b13bbea00" />
-)](https://youtu.be/5Z5D2E9MgPA)
-
-
----
-
 ## 📖 Overview
 
 **NeuroLearn** is an end-to-end, real-time adaptive learning platform that uses **Brain-Computer Interface (BCI)** technology and **Eye Tracking** to personalize education for neurodiverse students — particularly those with **ADHD** and **dyslexia**.
@@ -409,6 +394,20 @@ Student logs in & connects EEG + Eye Tracker
 - All testing conducted in controlled lab settings; robustness in real-world noisy classrooms not yet fully characterized
 - Binary (focused/distracted) classification is a simplification — future versions will support multi-level attention scoring for finer-grained adaptations
 - Long-term learning outcome impact not yet measured over a full academic term
+
+---
+
+## 📺 Demo Video
+
+<!-- ================================================================ -->
+<!-- YOUTUBE VIDEO PLACEHOLDER                                         -->
+<!-- Replace YOUR_VIDEO_ID below with your actual YouTube video ID    -->
+<!-- e.g. if your URL is https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
+<!--      then YOUR_VIDEO_ID = dQw4w9WgXcQ                            -->
+<!-- ================================================================ -->
+
+[![NeuroLearn Demo](<img width="1909" height="739" alt="image" src="https://github.com/user-attachments/assets/6571a97e-1c08-4277-9bac-c70b13bbea00" />
+)](https://youtu.be/5Z5D2E9MgPA)
 
 ---
 
