@@ -124,8 +124,7 @@ NeuroLearn is a **closed-loop BCI system** that:
 ### 🎧 EEG Headband (3-Channel)
 
 <!-- ![EEG Headband worn by user](assets/images/eeg_headband.jpg) -->
-> 📷 **Image placeholder** — Add a photo of the EEG headband being worn here.
-> Uncomment the line above and replace the path with your actual image file.
+<img width="600" height="451" alt="image" src="https://github.com/user-attachments/assets/50db769a-b8b6-4652-a839-d0a430b9b029" />
 
 A custom 3-channel EEG band with **two active electrodes on the forehead** (Fp1, Fp2) to capture frontal brain activity relevant to attention, and a **third reference/ground electrode** for noise cancellation. Designed to be lightweight and comfortable for extended study sessions.
 
