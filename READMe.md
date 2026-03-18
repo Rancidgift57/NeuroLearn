@@ -134,8 +134,7 @@ A custom 3-channel EEG band with **two active electrodes on the forehead** (Fp1,
 ### 🔬 BioAmp EXG Pill — Signal Amplifier
 
 <!-- ![BioAmp EXG Pill module](assets/images/bioamp_exg_pill.jpg) -->
-> 📷 **Image placeholder** — Add a close-up photo of the BioAmp EXG Pill here.
-> Uncomment the line above and replace the path with your actual image file.
+<img width="630" height="348" alt="image" src="https://github.com/user-attachments/assets/a4032716-4dcb-4c47-9bd8-cec8cd62aed6" />
 
 A compact amplifier module that boosts **microvolt-level EEG signals** to a measurable range. Uses **differential inputs (IN+, IN−)** to measure the voltage difference between electrodes — a technique that cancels out common-mode electrical noise. A **reference electrode (REF)** provides a stable baseline, further improving signal quality.
 
@@ -153,8 +152,6 @@ The bridge between the analog biological world and the digital computational dom
 ### 👁️ Eye Tracking Camera Setup
 
 <!-- ![Eye tracking camera setup](assets/images/eye_tracker.jpg) -->
-> 📷 **Image placeholder** — Add a photo of the eye tracking camera/webcam setup here.
-> Uncomment the line above and replace the path with your actual image file.
 
 A standard webcam or dedicated IR camera positioned to capture the student's face during sessions. Used for real-time gaze direction detection, blink rate analysis, fixation tracking, and head pose estimation.
 
