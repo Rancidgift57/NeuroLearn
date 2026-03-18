@@ -12,7 +12,7 @@
 
 ## 📖 Overview
 
-**NeuroLearn** is an end-to-end, real-time adaptive learning platform that uses **Brain-Computer Interface (BCI)** technology and **Eye Tracking** to personalize education for neurodiverse students — particularly those with **ADHD** and **dyslexia**.
+**NeuroLearn** is an end-to-end, real-time adaptive learning platform that uses **Brain-Computer Interface (BCI)** technology and **Eye Tracking** to personalize education for neurodiverse students — particularly those with **ADHD**.
 
 Traditional education's "one-size-fits-all" model fails the 10–15% of Indian students who have specific learning disabilities. NeuroLearn addresses this by listening directly to the brain. When a student's attention drops, the system detects it instantly through EEG signals and eye gaze analysis, then reshapes the learning content using an AI engine — before the student even realizes they've lost focus.
 
