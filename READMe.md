@@ -19,7 +19,8 @@
 <!--      then YOUR_VIDEO_ID = dQw4w9WgXcQ                            -->
 <!-- ================================================================ -->
 
-[![NeuroLearn Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/5Z5D2E9MgPA)
+[![NeuroLearn Demo](<img width="1909" height="739" alt="image" src="https://github.com/user-attachments/assets/6571a97e-1c08-4277-9bac-c70b13bbea00" />
+)](https://youtu.be/5Z5D2E9MgPA)
 
 
 ---
