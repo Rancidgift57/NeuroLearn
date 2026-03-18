@@ -19,7 +19,7 @@
 <!--      then YOUR_VIDEO_ID = dQw4w9WgXcQ                            -->
 <!-- ================================================================ -->
 
-[![NeuroLearn Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]()
+[![NeuroLearn Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/5Z5D2E9MgPA)
 
 
 ---
