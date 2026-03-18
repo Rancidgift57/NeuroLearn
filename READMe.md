@@ -143,10 +143,8 @@ A compact amplifier module that boosts **microvolt-level EEG signals** to a meas
 
 ### 🔧 Arduino UNO R4 Minima — Microcontroller
 
-<!-- ![Arduino UNO R4 Minima board](assets/images/arduino_uno_r4.jpg) -->
-> 📷 **Image placeholder** — Add a photo of the Arduino UNO R4 Minima here.
-> Uncomment the line above and replace the path with your actual image file.
-
+<!-- ![Arduino UNO R4 Minima board](<img width="734" height="552" alt="image" src="https://github.com/user-attachments/assets/f5355312-ece9-4129-8718-a79a8201be18" />
+) -->
 The bridge between the analog biological world and the digital computational domain. The Arduino's built-in **Analog-to-Digital Converter (ADC)** samples the amplified EEG signal at **250 Hz** and transmits the digital data stream to a laptop over **USB serial** for software-based processing.
 
 ---
