@@ -160,8 +160,7 @@ A standard webcam or dedicated IR camera positioned to capture the student's fac
 ### 🔌 Full Circuit — EEG Signal Acquisition
 
 <!-- ![EEG circuit diagram](assets/images/circuit_diagram.jpg) -->
-> 📷 **Image placeholder** — Add the full circuit diagram or breadboard photo here.
-> Uncomment the line above and replace the path with your actual image file.
+<img width="1200" height="585" alt="image" src="https://github.com/user-attachments/assets/56ccb55b-e95e-400c-88a7-3ba6ae9d7932" />
 
 The complete analog front-end circuit connecting the EEG electrodes → BioAmp EXG Pill amplifier → band-pass RC filter stage → Arduino ADC input.
 
