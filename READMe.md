@@ -19,9 +19,8 @@
 <!--      then YOUR_VIDEO_ID = dQw4w9WgXcQ                            -->
 <!-- ================================================================ -->
 
-[![NeuroLearn Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![NeuroLearn Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)]()
 
-> 🎬 *Click the thumbnail above to watch the full demo on YouTube.*
 
 ---
 
